@@ -3,4 +3,4 @@ This is a practice web development project involving the history of animation. S
 
 Feel free to use this site and modify it to your needs, no attribution required! Enjoy!
 
-**This project is not being in development, and will not be updated.**
+**This project is not in active development, and will not be updated.**
